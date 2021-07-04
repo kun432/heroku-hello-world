@@ -1,0 +1,7 @@
+{
+  "name": "heroku-hello-world",
+  "description": "Heroku練習用です。",
+  "repository": "https://github.com/kun432/heroku-hello-world",
+  "logo": "https://raw.githubusercontent.com/xxx/xxx/master/logo.png",
+  "keywords": [ "heroku", "node.js", "express", "hello world" ]
+}
